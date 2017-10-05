@@ -1,5 +1,7 @@
 # pure-craze-challenge
 
+Online Demo: https://pure-craze-challenge.firebaseapp.com/
+
 ## Get started
 1. Just run `npm i` to install your dependencies;
 
