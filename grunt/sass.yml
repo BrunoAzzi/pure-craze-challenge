@@ -1,0 +1,3 @@
+dist:
+  files:
+    'public/main.css' : 'styles/main.scss'

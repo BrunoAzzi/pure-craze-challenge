@@ -1,0 +1,4 @@
+main:
+  files:
+    - { expand: true, src: ['index.html'], dest: 'public/', filter: 'isFile' }
+    - { expand: true, src: ['images/*'], dest: 'public/', filter 'isFile' }
