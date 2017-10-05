@@ -1,0 +1,3 @@
+build:
+  files: ['index.html', 'styles/*.scss']
+  tasks: ['build']

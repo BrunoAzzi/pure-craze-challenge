@@ -1,0 +1,10 @@
+default:
+  - build
+
+build:
+  - copy
+  - sass
+
+deploy:
+  - build
+  - exec
